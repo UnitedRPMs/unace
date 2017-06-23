@@ -1,0 +1,7 @@
+BUILD/*
+BUILDROOT/*
+RPMS/*
+SPECS/*
+SRPMS/*
+unace-nonfree*.tar.gz
+.directory
